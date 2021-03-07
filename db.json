@@ -1,0 +1,11 @@
+{
+    "compensacao": 6,
+    "pagamentos": 2345876.43,
+    "titulosRejeitados": 3,
+    "totalCnab": 2365783.09,
+    "totalCnabBanco": {
+      "bb": 500000,
+      "safra": 1500000,
+      "bradesco": 365783.09
+    }
+  }
